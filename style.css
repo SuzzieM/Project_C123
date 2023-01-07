@@ -1,0 +1,22 @@
+.heading
+{
+    color:white;
+    font-size:20px;
+    box-shadow: 7px 7px 7px lightskyblue;
+}
+.note
+{
+    color:black;
+}
+.copy_right_footer
+{
+    position:fixed;
+    text-align:center;
+    font-size:17px;
+    font-weight: bold;
+    bottom:0;
+    width:100%;
+    line-height: 3;
+    color:lightblue;
+    background-color: rgb(48, 121, 158);
+}
